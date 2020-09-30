@@ -1,5 +1,6 @@
 This tool gives users the flexibility to require a screenshot and replica to the clipboard the text content of the screenshot. Works on Windows, macOS, and most Linux distros (some desktop environments may have issues with transparency).
 
+
 How to Install :
 1. Install Python 3 
 2. Clone this repository, and cd into it 
