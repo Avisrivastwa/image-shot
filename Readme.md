@@ -9,4 +9,4 @@ How to Install :
 
 On Windows, one can accomplish this by using an AutoHotkey script; textshot.ahk contains a sample AHK script which will be used.
 
-Running textshot.py will open an overlay over the screen, where a rectangle may be drawn over the portion of the screen containing the text the user wishes to repeat.
+Running textshot.py will open an overlay over the screen, where a rectangle may be drawn over the portion of the screen containing the text the user wishes to repeat
