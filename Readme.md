@@ -4,7 +4,9 @@ This tool gives users the flexibility to require a screenshot and replica to the
 
 ## Steps to Install :-
 
-1. Install Python 3 
+1.Open your browser
+2. Search for "python 3".
+3. Install Python 3 from any of the trustworthy source.
 2. Clone this repository, and cd into it 
 3. (Optional) Create a virtual environment, as an example with python -m venv .venv 
 4. Install the desired packages with pip install -r requirements.txt 
