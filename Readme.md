@@ -1,6 +1,6 @@
 # Image Shot
 
-This tool gives users the flexibility to require a screenshot and replica to the clipboard the text content of the screenshot. Works on Windows, macOS, and most Linux distros (some desktop environments may have issues with transparency).
+This tool gives you the flexibility to require a screenshot and replica to the clipboard the text content of the screenshot. Works on Windows, macOS, and most Linux distros (some desktop environments may have issues with transparency).
 
 ## Steps to Install :-
 
